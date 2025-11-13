@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Sofia Cassarino
 
-<!--
-**sofiacassarino/sofiacassarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a QA Analyst based in Malta, currently expanding my skills in test automation.  
+I have 3+ years of experience testing web and mobile applications in the iGaming and logistics sectors.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- Manual Testing | Regression | Exploratory | API Testing (Postman)
+- Automation with Cypress (JavaScript) | Playwright (TypeScript) - basic
+- CI/CD: GitLab pipelines
+- Tools: Jira, TestRail, Confluence, VS Code, Chrome DevTools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projects
+- [Cypress Demo Project](link-coming-soon)
+- [API Testing Collection](link-coming-soon)
+
+## 🌱 Currently learning
+Python for test automation and advanced Cypress frameworks.
